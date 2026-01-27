@@ -31,6 +31,8 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 **Your star helps others discover this resource and motivates continued improvements!**
 
+[![Star History Chart](https://api.star-history.com/svg?repos=cporter202/automate-faceless-content&type=Date)](https://star-history.com/#cporter202/automate-faceless-content&Date)
+
 [![GitHub stars](https://img.shields.io/github/stars/cporter202/automate-faceless-content?style=social&label=Star)](https://github.com/cporter202/automate-faceless-content)
 
 ---
